@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ijohnst/fe-mentor-four-card](https://github.com/ijohnst/fe-mentor-four-card)
+- Live Site URL: [https://ijohnst.github.io/fe-mentor-four-card/](https://ijohnst.github.io/fe-mentor-four-card/)
 
 ## My process
 
